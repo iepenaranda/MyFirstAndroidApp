@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sydney Opera House",
+    "description": "Uno de los grandes iconos del mundo, la Ópera de Sydney, es un patrimonio de la humanidad y la atracción estrella que brilla en el puerto.",
+    "imageURL": "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-1_opt.jpg"
+  },
+  {
+    "name": "Puente del Puerto de Sydney",
+    "description": "El puente del puerto de Sydney o “Colgador“, como la llaman los locales, fue la más famosa de las Atracciones Turísticas de Sydney  antes de la construcción de la Opera.",
+    "imageURL": "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-2_opt.jpg"
+  },
+  {
+    "name": "Las Rocas",
+    "description": "La zona histórica de Rocks fue el hogar de los aborígenes Gadigal y más tarde se convirtió en el primer sitio de la colonización europea del país.",
+    "imageURL": "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-3_opt.jpg"
+  },
+  {
+    "name": "Circular Quay",
+    "description": "Construido por los convictos en Sydney Cove, la animada Circular Quay es ahora el hogar de la terminal principal de ferrys de la ciudad.",
+    "imageURL": "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-4_opt.jpg"
+  },
+  {
+    "name": "Puerto Darling",
+    "description": "Darling Harbour es un barrio marítimo peatonal lleno de tiendas, restaurantes, museos, exposiciones y lugares de ocio.",
+    "imageURL": "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-5_opt.jpg"
+  }
+]
