@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/detail_view.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/detailview.xml" value="0.33" />
+        <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/fragment_detail.xml" value="0.33" />
+        <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/fragment_list_poi.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/item_poi.xml" value="0.25" />
         <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/itempoi.xml" value="0.33" />
         <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/layout/recycle_view.xml" value="0.25" />
+        <entry key="..\:/Users/ivan_/AndroidStudioProjects/MySidneyAppRequiem/app/src/main/res/xml/root_preferences.xml" value="0.5" />
       </map>
     </option>
   </component>
